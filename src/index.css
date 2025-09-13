@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Khai báo */
+:root {
+  --margin-main: 10vw; /* khoảng cách */
+  --main-red: #c84938; /* màu đỏ */
+}
+
+.pointer {
+  @apply cursor-pointer hover:cursor-pointer;
+}

@@ -42,7 +42,7 @@ export default function Portfolio() {
 
                 {/* Resume button */}
                 <a
-                    href="https://drive.google.com/file/d/1cP40VmqbaRzQ8wJuu93qkgeVz5Cw4X9v/view"
+                    href="https://drive.google.com/file/d/1FJCG3s6yDkJyQgDyY1pJXrtQclKcao4V/view"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mt-6 inline-block px-6 py-3 bg-blue-600 text-white font-medium rounded-lg shadow hover:bg-blue-700 transition"
